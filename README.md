@@ -2,8 +2,8 @@
 
 ***C Exercises*** is a `C` repository with all my personal solutions to the exercises proposed in the book *"C Programming: A Modern Approach"*.
 
-[!NOTE]
-Only exercises included in *"Programming Projects"* sections are taken into consideration.
+> [!NOTE]
+> Only exercises included in *"Programming Projects"* sections are taken into consideration.
 
 ----
 
