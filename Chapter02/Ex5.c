@@ -14,7 +14,7 @@ int main(void) {
       + 7 * x
       - 6;
     
-    printf("Result: %.2f", y);
+    printf("Result: %.2f\n", y);
 
     return 0;
 }
